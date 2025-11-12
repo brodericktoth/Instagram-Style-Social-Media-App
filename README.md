@@ -1,4 +1,5 @@
-# Welcome to your Expo app 👋
+# Welcome Instagram-Style-Social-Media-App
+A social media app that is like Instagram and Tik Tok that you can post videos to an look them up 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
